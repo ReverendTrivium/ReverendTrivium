@@ -52,9 +52,9 @@
 
 
 ### :zap: Recent GitHub Activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#90](https://github.com/novatorem/novatorem/pull/90) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
