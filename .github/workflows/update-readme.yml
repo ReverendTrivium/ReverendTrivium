@@ -21,9 +21,9 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: ReverendTrivium
-          template: "TEMPLATE.md"
+          template: "README.md"
 
       - uses: actions-js/push@v1.4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: "master"
+          branch: "main"
