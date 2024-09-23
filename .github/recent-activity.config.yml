@@ -9,8 +9,6 @@ settings:
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   line_prefix: "{NUM}. "
-  ignored_repos:
-    - username/repo
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
@@ -20,10 +18,5 @@ messages:
   pr_closed: "❌ Closed PR {ID} in {REPO}"
   pr_merged: "🎉 Merged PR {ID} in {REPO}"
   create_repo: "📔 Created new repository {REPO}"
-  fork_repo: "🔱 Forked {FORK} from {REPO}"
-  wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
-  added_member: "🤝 Became collaborator on {REPO}"
-  changes_approved: "👍 Approved {ID} in {REPO}"
   changes_requested: "🔴 Requested changes in {ID} in {REPO}"
   new_release: "✌️ Released {ID} in {REPO}"
-  new_star: "⭐ Starred {REPO}"
