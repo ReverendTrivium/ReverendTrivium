@@ -53,6 +53,7 @@
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Eya2.0 Version 1.0.0](https://github.com/ReverendTrivium/Eya2.0/releases/tag/v1.0.0) in [ReverendTrivium/Eya2.0](https://github.com/ReverendTrivium/Eya2.0)
 <!--END_SECTION:activity-->
 </details>
 
