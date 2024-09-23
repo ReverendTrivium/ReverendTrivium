@@ -10,8 +10,9 @@
 
 
 <p>
-<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=ReverendTrivium&show_icons=true&theme=radical" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReverendTrivium&layout=compact" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img  width="45%" src="https://github-readme-stats-git-master-reverendtriviums-projects.vercel.app/api?username=ReverendTrivium&show_icons=true&theme=radical" />
+<img width="45%" src="https://github-readme-stats-git-master-reverendtriviums-projects.vercel.app/api/top-langs/?username=ReverendTrivium&layout=compact" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
