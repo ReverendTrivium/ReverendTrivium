@@ -50,12 +50,12 @@
   <img src="https://img.shields.io/badge/-Spring-Spring?style=for-the-badge&logo=spring&logoColor=white&labelColor=green&color=green"/>
 </p>
 
-<details>
-    <summary>:zap: Recent GitHub Activity</summary>
+
+### :zap: Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Eya2.0 Version 1.0.0](https://github.com/ReverendTrivium/Eya2.0/releases/tag/v1.0.0) in [ReverendTrivium/Eya2.0](https://github.com/ReverendTrivium/Eya2.0)
 <!--END_SECTION:activity-->
-</details>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
