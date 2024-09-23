@@ -53,7 +53,7 @@
 
 ### :zap: Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Eya2.0 Version 1.0.0](https://github.com/ReverendTrivium/Eya2.0/releases/tag/v1.0.0) in [ReverendTrivium/Eya2.0](https://github.com/ReverendTrivium/Eya2.0)
+1. 💪 Opened PR [#90](https://github.com/novatorem/novatorem/pull/90) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
 
 
