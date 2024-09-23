@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    # Runs every first and 12 hrs.
+    # Runs every 15 minutes
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
