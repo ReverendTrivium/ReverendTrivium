@@ -1,13 +1,25 @@
 <h1 align="center">Hi there, I'm Derrick</h1>
-<h3 align="center">I like coding. 😄</h3>
-<p align="center">Feel free to take a look around!</p>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/derrickeberlein/">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+## I like coding. 😄
+- 🔭 I’m currently working on [Redacted Discord Bot][discord]!
+- 🌱 I’m currently learning [React][react]!
+- 👯 I’m looking to collaborate on Spring React Web Apps
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to skateboard and I'm into JDM cars.
 
+## Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/derrickeberlein/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/derrickeberlein/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mx.cyberagent/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/mx.cyberagent/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/discord-light.svg)](https://discord.gg/fB2VQyjWP2#gh-light-mode-only)
+[![website](./img/discord-dark.svg)](https://discord.gg/fB2VQyjWP2#gh-dark-mode-only)
+
+### Listening Too
+[![Spotify](https://novatorem-nu-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/31kvyihfxgykpyaweilbsaeuxjli)
 
 <p>
 <img  width="45%" src="https://github-readme-stats-git-master-reverendtriviums-projects.vercel.app/api?username=ReverendTrivium&show_icons=true&theme=radical" />
@@ -39,22 +51,13 @@
   <img src="https://img.shields.io/badge/-Spring-Spring?style=for-the-badge&logo=spring&logoColor=white&labelColor=green&color=green"/>
 </p>
 
+<details>
+    <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Eya2.0 Version 1.0.0](https://github.com/ReverendTrivium/Eya2.0/releases/tag/v1.0.0) in [ReverendTrivium/Eya2.0](https://github.com/ReverendTrivium/Eya2.0)
 <!--END_SECTION:activity-->
+</details>
 
-<!--
-**ReverendTrivium/ReverendTrivium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[discord]: https://github.com/ReverendTrivium/RedactedBot
+[react]: https://react.dev
