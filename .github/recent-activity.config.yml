@@ -7,7 +7,6 @@ settings:
     - "comments"
     - "push"
   date:
-    timezone: "Asia/Kolkata"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
 messages:
   comments: "![comment] Commented on {ID} in {REPO}"
