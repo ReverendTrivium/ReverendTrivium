@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on [Redacted Discord Bot][discord]!
 - 🌱 I’m currently learning [React][react]!
 - 👯 I’m looking to collaborate on Spring React Web Apps
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to skateboard and I'm into JDM cars.
 
 ## Connect with me:
