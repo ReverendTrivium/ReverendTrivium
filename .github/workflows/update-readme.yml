@@ -2,18 +2,28 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Update every 5 minutes
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README
 
     steps:
       - uses: actions/checkout@v3
-      #
-      # "{version}" is a placeholder and should be replaced with the latest release of recent-activity
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: "./.github/update-readme.config.yml"
+
+      - uses: actions-js/profile-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: ReverendTrivium
+          template: "README.md"
+
+      - uses: actions-js/push@v1.4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: "master"
