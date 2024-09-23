@@ -1,5 +1,5 @@
-<h1 align="center">Hi! 👋</h1>
-<h3 align="center">I'm Derrick. I like coding. 😄</h3>
+<h1 align="center">Hi there, I'm Derrick</h1>
+<h3 align="center">I like coding. 😄</h3>
 <p align="center">Feel free to take a look around!</p>
 
 <p align='center'>
@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/-Spring_Boot-white?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
   <img src="https://img.shields.io/badge/-Spring-Spring?style=for-the-badge&logo=spring&logoColor=white&labelColor=green&color=green"/>
 </p>
+
+<!--START_SECTION:activity-->
 
 <!--
 **ReverendTrivium/ReverendTrivium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
