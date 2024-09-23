@@ -22,8 +22,8 @@
 [![Spotify](https://novatorem-nu-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/31kvyihfxgykpyaweilbsaeuxjli)
 
 <p>
-<img  width="45%" src="https://github-readme-stats-git-master-reverendtriviums-projects.vercel.app/api?username=ReverendTrivium&show_icons=true&theme=radical" />
-<img width="45%" src="https://github-readme-stats-git-master-reverendtriviums-projects.vercel.app/api/top-langs/?username=ReverendTrivium&layout=compact" />
+<img  width="45%" src="https://github-readme-stats-git-master-reverendtriviums-projects.vercel.app/api?username=ReverendTrivium&show_icons=true,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" />
+<img width="51%" src="https://github-readme-stats-git-master-reverendtriviums-projects.vercel.app/api/top-langs/?username=ReverendTrivium&hide_progress=true&theme=transparent" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
