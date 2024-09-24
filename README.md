@@ -17,8 +17,8 @@
 [![website](./img/discord-light.svg)](https://discord.gg/fB2VQyjWP2#gh-light-mode-only)
 [![website](./img/discord-dark.svg)](https://discord.gg/fB2VQyjWP2#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/Gmail-light.svg)](derrickeberlein@gmail.com#gh-light-mode-only)
-[![website](./img/Gmail-dark.svg)](derrickeberlein@gmail.com#gh-dark-mode-only)
+[![website](./img/Gmail-light.svg)](https://mail.google.com/mail/u/?authuser=derrickeberlein@gmail.com#gh-light-mode-only)
+[![website](./img/Gmail-dark.svg)](https://mail.google.com/mail/u/?authuser=derrickeberlein@gmail.com#gh-dark-mode-only)
 
 ### 🎧 Spotify
 [![Spotify](https://novatorem-nu-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/31kvyihfxgykpyaweilbsaeuxjli)
