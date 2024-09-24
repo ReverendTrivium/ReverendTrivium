@@ -5,6 +5,7 @@ settings:
   commit_email: "derrickeberlein@gmail.com"
   disabled_events:
     - "comments"
+    - "push"
   date:
     timezone: "America/New_York"
     text: '<p align="center">Last refresh: <b>{DATE} EST</b>'
