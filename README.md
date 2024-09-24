@@ -57,20 +57,20 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
-2. ⬆️ Pushed 1 commit(s) to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
-3. ⬆️ Pushed 1 commit(s) to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
-4. ⬆️ Pushed 1 commit(s) to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
-5. ⬆️ Pushed 2 commit(s) to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+1. ![push] Pushed 1 commit to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+2. ![push] Pushed 1 commit to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+3. ![push] Pushed 1 commit to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+4. ![push] Pushed 1 commit to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+5. ![push] Pushed 1 commit to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
 6. ![pullrequestmerged] Merged PR [#2](https://github.com/ReverendTrivium/ReverendTrivium/pull/2) in [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
-7. ⬆️ Pushed 2 commit(s) to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
-8. ⬆️ Pushed 1 commit(s) to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+7. ![push] Pushed 1 commit to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+8. ![push] Pushed 1 commit to [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
 9. ![repoCreated] Created new repository [ReverendTrivium/github-profile-summary-cards](https://github.com/ReverendTrivium/github-profile-summary-cards)<br>
 10. ![star] Starred [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, September 24th, 2024, 12:46:54 PM EST</b>
+<p align="center">Last refresh: <b>Tuesday, September 24th, 2024, 12:53:31 PM EST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
