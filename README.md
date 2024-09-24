@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Derrick</h1>
+<h1 align="center">Hi there, I'm Derrick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-## I like coding. 😄
+## I like coding. 
 - 🔭 I’m currently working on [Redacted Discord Bot][discord]!
 - 🌱 I’m currently learning [React][react]!
 - 👯 I’m looking to collaborate on Spring React Web Apps
@@ -51,7 +51,7 @@
 </p>
 
 
-### :zap: Recent GitHub Activity
+### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
