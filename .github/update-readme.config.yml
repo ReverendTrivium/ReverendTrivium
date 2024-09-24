@@ -23,3 +23,4 @@ messages:
   new_release: "![release] Released {ID} in {REPO}"
   new_star: "![star] Starred {REPO}"
   added_member: "![people] Became collaborator on {REPO}"
+  push: "![push] Pushed 1 commit to {REPO}"
