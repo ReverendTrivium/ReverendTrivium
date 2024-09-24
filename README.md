@@ -50,8 +50,8 @@
   <img src="https://img.shields.io/badge/-Spring-Spring?style=for-the-badge&logo=spring&logoColor=white&labelColor=green&color=green"/>
 </p>
 
-
-### ⚡ Recent GitHub Activity
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
 1. ![release] Released [RedactedBot Version 1.0.0](https://github.com/ReverendTrivium/RedactedBot/releases/tag/v1.0.0) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
@@ -65,7 +65,7 @@
 9. ![fork] Forked [ReverendTrivium/novatorem](https://github.com/ReverendTrivium/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)<br>
 10. ![fork] Forked [ReverendTrivium/codeSTACKr](https://github.com/ReverendTrivium/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)<br>
 <!--RECENT_ACTIVITY:end-->
-
+</details>
 <!--RECENT_ACTIVITY:last_update-->
 <p align="center">Last refresh: <b>Monday, September 23rd, 2024, 8:31:45 PM EST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
