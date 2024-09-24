@@ -54,8 +54,21 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ![release] Released [RedactedBot Version 1.0.0](https://github.com/ReverendTrivium/RedactedBot/releases/tag/v1.0.0) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
+2. ![star] Starred [ReverendTrivium/Tiwala](https://github.com/ReverendTrivium/Tiwala)<br>
+3. ![star] Starred [ReverendTrivium/codeSTACKr](https://github.com/ReverendTrivium/codeSTACKr)<br>
+4. ![star] Starred [ReverendTrivium/github-readme-stats](https://github.com/ReverendTrivium/github-readme-stats)<br>
+5. ![star] Starred [ReverendTrivium/ReverendTrivium.github.io](https://github.com/ReverendTrivium/ReverendTrivium.github.io)<br>
+6. ![star] Starred [ReverendTrivium/novatorem](https://github.com/ReverendTrivium/novatorem)<br>
+7. ![star] Starred [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+8. ![pullrequestopened] Opened PR [#90](https://github.com/novatorem/novatorem/pull/90) in [novatorem/novatorem](https://github.com/novatorem/novatorem)<br>
+9. ![fork] Forked [ReverendTrivium/novatorem](https://github.com/ReverendTrivium/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)<br>
+10. ![fork] Forked [ReverendTrivium/codeSTACKr](https://github.com/ReverendTrivium/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+<p align="center">Last refresh: <b>Monday, September 23rd, 2024, 8:31:45 PM EST</b>
+<!--RECENT_ACTIVITY:last_update_end-->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
