@@ -61,18 +61,18 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [RedactedBot Version 1.0.1](https://github.com/ReverendTrivium/RedactedBot/releases/tag/V1.0.1) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
-2. ![pullrequestmerged] Merged PR [#2](https://github.com/ReverendTrivium/ReverendTrivium/pull/2) in [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
-3. ![repoCreated] Created new repository [ReverendTrivium/github-profile-summary-cards](https://github.com/ReverendTrivium/github-profile-summary-cards)<br>
-4. ![star] Starred [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)<br>
-5. ![fork] Forked [ReverendTrivium/abhijoshi2k](undefined) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)<br>
-6. ![star] Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-7. ![issueOpened] Opened issue [#1](https://github.com/ReverendTrivium/RedactedBot/issues/1) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
-8. ![release] Released [RedactedBot Version 1.0.0](https://github.com/ReverendTrivium/RedactedBot/releases/tag/v1.0.0) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
+1. ![star] Starred [discord-jda/JDA](https://github.com/discord-jda/JDA)<br>
+2. ![release] Released [RedactedBot Version 1.0.1](https://github.com/ReverendTrivium/RedactedBot/releases/tag/V1.0.1) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
+3. ![pullrequestmerged] Merged PR [#2](https://github.com/ReverendTrivium/ReverendTrivium/pull/2) in [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
+4. ![repoCreated] Created new repository [ReverendTrivium/github-profile-summary-cards](https://github.com/ReverendTrivium/github-profile-summary-cards)<br>
+5. ![star] Starred [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)<br>
+6. ![fork] Forked [ReverendTrivium/abhijoshi2k](undefined) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)<br>
+7. ![star] Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+8. ![issueOpened] Opened issue [#1](https://github.com/ReverendTrivium/RedactedBot/issues/1) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, October 8th, 2024, 9:09:19 PM EST</b>
+<p align="center">Last refresh: <b>Tuesday, October 8th, 2024, 10:46:53 PM EST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
