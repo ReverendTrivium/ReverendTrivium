@@ -67,13 +67,10 @@
 4. ![star] Starred [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)<br>
 5. ![star] Starred [discord-jda/JDA](https://github.com/discord-jda/JDA)<br>
 6. ![release] Released [RedactedBot Version 1.0.1](https://github.com/ReverendTrivium/RedactedBot/releases/tag/V1.0.1) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
-7. ![pullrequestmerged] Merged PR [#2](https://github.com/ReverendTrivium/ReverendTrivium/pull/2) in [ReverendTrivium/ReverendTrivium](https://github.com/ReverendTrivium/ReverendTrivium)<br>
-8. ![repoCreated] Created new repository [ReverendTrivium/github-profile-summary-cards](https://github.com/ReverendTrivium/github-profile-summary-cards)<br>
-9. ![star] Starred [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, December 24th, 2024, 3:19:11 AM EST</b>
+<p align="center">Last refresh: <b>Tuesday, December 24th, 2024, 4:15:25 AM EST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
