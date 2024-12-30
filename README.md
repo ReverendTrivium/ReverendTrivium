@@ -61,16 +61,17 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [ReverendTrivium/Auto_Jobs_Applier_AIHawk](undefined) from [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)<br>
-2. ![star] Starred [ReverendTrivium/Tomodachi-Street](https://github.com/ReverendTrivium/Tomodachi-Street)<br>
-3. ![repoCreated] Created new repository [ReverendTrivium/Tomodachi-Street](https://github.com/ReverendTrivium/Tomodachi-Street)<br>
-4. ![star] Starred [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)<br>
-5. ![star] Starred [discord-jda/JDA](https://github.com/discord-jda/JDA)<br>
-6. ![release] Released [RedactedBot Version 1.0.1](https://github.com/ReverendTrivium/RedactedBot/releases/tag/V1.0.1) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
+1. ![repoCreated] Created new repository [ReverendTrivium/personal_website](https://github.com/ReverendTrivium/personal_website)<br>
+2. ![fork] Forked [ReverendTrivium/Auto_Jobs_Applier_AIHawk](undefined) from [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)<br>
+3. ![star] Starred [ReverendTrivium/Tomodachi-Street](https://github.com/ReverendTrivium/Tomodachi-Street)<br>
+4. ![repoCreated] Created new repository [ReverendTrivium/Tomodachi-Street](https://github.com/ReverendTrivium/Tomodachi-Street)<br>
+5. ![star] Starred [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)<br>
+6. ![star] Starred [discord-jda/JDA](https://github.com/discord-jda/JDA)<br>
+7. ![release] Released [RedactedBot Version 1.0.1](https://github.com/ReverendTrivium/RedactedBot/releases/tag/V1.0.1) in [ReverendTrivium/RedactedBot](https://github.com/ReverendTrivium/RedactedBot)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, December 30th, 2024, 11:17:49 AM EST</b>
+<p align="center">Last refresh: <b>Monday, December 30th, 2024, 12:12:31 PM EST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
