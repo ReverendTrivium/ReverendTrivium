@@ -61,11 +61,10 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [ReverendTrivium/personal_website](https://github.com/ReverendTrivium/personal_website)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, December 31st, 2024, 11:17:14 AM EST</b>
+<p align="center">Last refresh: <b>Tuesday, December 31st, 2024, 12:12:10 PM EST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
