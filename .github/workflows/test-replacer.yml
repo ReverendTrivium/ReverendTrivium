@@ -16,7 +16,7 @@ jobs:
           COMMIT_EMAIL: "derrickeberlein@gmail.com"
           COMMIT_NAME: "Derrick Eberlein"
           COMMIT_FILE: "./README.md"
-          TIMEZONE: "Asia/Kolkata"
+          TIMEZONE: "America/New_York"
 
       - uses: actions-js/profile-readme@master
         with:
