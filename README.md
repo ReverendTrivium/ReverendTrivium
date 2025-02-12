@@ -61,12 +61,10 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [ReverendTrivium/personal_website](https://github.com/ReverendTrivium/personal_website)<br>
-2. ![star] Starred [ReverendTrivium/TomodachiStreet_Website](https://github.com/ReverendTrivium/TomodachiStreet_Website)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, February 12th, 2025, 1:20:36 PM EST</b>
+<p align="center">Last refresh: <b>Wednesday, February 12th, 2025, 2:12:12 PM EST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
