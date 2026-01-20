@@ -11,8 +11,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/derrickeberlein/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/derrickeberlein/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mx.cyberagent/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mx.cyberagent/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/derrickeberlein/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/derrickeberlein/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/discord-light.svg)](https://discord.gg/fB2VQyjWP2#gh-light-mode-only)
 [![website](./img/discord-dark.svg)](https://discord.gg/fB2VQyjWP2#gh-dark-mode-only)
